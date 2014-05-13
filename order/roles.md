@@ -1,6 +1,6 @@
 # Core group
 
-* The core group enables the hacker environment to exist. * The core group should be as "thin layer" as possible. Core group should operate mostly in the background. If the core group does a good job, they should be invisible.
+* The core group enables the hacker environment to exist. The core group should be as "thin layer" as possible. Core group should operate mostly in the background. If the core group does a good job, they should be invisible.
 
  - Finance     
  - Core infrastructure  
